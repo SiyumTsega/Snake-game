@@ -1,4 +1,3 @@
-# Snake-game
 # Snake Game
 
 This repository contains the source code for a simple Snake Game built using Java. The initial structure of the game was developed by following a YouTube tutorial, with several modifications made to enhance its functionality and user experience.
